@@ -2,7 +2,8 @@ My Swift Playground
 ============
 
 My personal swift playground :)
-When I have some spare time (not very often) I will write something in swift
+
+When I have some spare time (not very often), I will write something in swift here!
 
 License 
 ---------
